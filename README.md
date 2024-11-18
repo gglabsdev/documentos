@@ -50,3 +50,7 @@ A indústria de tecnologia da informação está em constante transformação, c
 * Concorrência de empresas grandes e consolidadas com mais recursos;
 * Mudanças nas regulamentações relacionadas a privacidade e proteção de dados;
 * Risco de ciber-ataques e violações de segurança que podem comprometer a confiança do cliente.
+
+# Análise de Viabilidade
+![image](https://github.com/user-attachments/assets/28e1aef4-8b10-4cb9-a722-0b22981d6709) <br>
+Este estudo considera fatores econômicos, financeiros, técnicos e de marketing, proporcionando uma visão abrangente das oportunidades e desafios que a empresa enfrenta.
