@@ -83,3 +83,12 @@ A indústria de tecnologia da informação tem se mostrado um dos setores mais d
 - **Parcerias Acadêmicas**: A colaboração com universidades pode impulsionar a inovação e trazer novas ideias para o desenvolvimento de soluções;
 - **Projetos de Código Aberto**: A participação em projetos de código aberto pode não apenas contribuir para a comunidade, mas também aumentar a visibilidade e reputação da empresa;
 - **Expansão da Digitalização**: Pequenas e médias empresas estão cada vez mais buscando soluções digitais, criando um nicho de mercado significativo.
+
+# Público-Alvo
+![image](https://github.com/user-attachments/assets/51e748e8-c648-48b2-ae30-f50e15a4e2df) <br>
+
+# Tamanho do Mercado e Tendências
+![image](https://github.com/user-attachments/assets/2b12a90d-c867-4338-b5be-af3787911f8c) <br>
+
+# Ofertas Centrais
+Nossas ofertas de produtos e serviços são projetadas para atender às demandas dinâmicas do mercado de tecnologia, com um foco especial em soluções sustentáveis que integraram inovações tecnológicas emergentes. Nossos serviços abrangem desde o desenvolvimento de software personalizado até treinamentos especializados, sempre com a intenção de promover a qualidade e a eficiência no processo produtivo dos nossos clientes.
