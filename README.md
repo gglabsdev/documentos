@@ -1,7 +1,7 @@
 # Plano de Negócios
 A **GG Laboratories** é uma fábrica de software localizada em Contagem, MG, que se destaca pela integração com tecnologias emergentes e o foco em soluções sustentáveis. Através de uma cultura de inovação constante, a empresa busca criar soluções personalizadas e eficientes para atender às demandas de seus clientes, aproveitando sua equipe multidisciplinar e metodologias ágeis que garantem a atualização contínua e em sintonia com o mercado.
 
-## 📉 Visão Geral de Negócios
+## 👔 Visão Geral de Negócios
 A GG Laboratories foca no desenvolvimento de software utilizando tecnologias de ponta, com especial atenção para a sustentabilidade e inovação. A empresa investe em parcerias estratégicas e em projetos de código aberto, o que fortalece sua posição no mercado tecnológico. Com um ambiente colaborativo e a aplicação de inteligência artificial em seus projetos, a GG Laboratories se posiciona como uma referência em soluções tecnológicas diferenciadas.
 
 ## 🎯 Missão
@@ -57,3 +57,24 @@ Este estudo considera fatores econômicos, financeiros, técnicos e de marketing
 
 ## 🌐 Análise de Mercado
 O mercado de software está em constante expansão, com uma crescente demanda por soluções personalizadas e integradas. Segundo a pesquisa realizada pela Statista, espera-se que o mercado global de software alcance aproximadamente 1 trilhão de dólares até 2025, o que representa uma oportunidade significativa para a GG Laboratories. Além disso, a ênfase em tecnologias emergentes e soluções sustentáveis está alinhada com as tendências atuais do setor, tornando a empresa competitiva e relevante.
+
+## 👨‍💻 Capacidade Técnica
+A GG Laboratories possui uma equipe multidisciplinar, o que garante a capacidade técnica necessária para atender às demandas dos clientes. A implementação de metodologias ágeis e o foco em inteligência artificial e inovação constante asseguram que a empresa possa se adaptar rapidamente às mudanças do mercado e às novas exigências. Segundo o relatório do McKinsey sobre a transformação digital, empresas que adotam uma abordagem ágil têm 1,6 vezes mais chances de superar suas metas financeiras.
+
+## 🌾 Sustentabilidade e Responsabilidade Social
+O compromisso da GG Laboratories com a sustentabilidade e responsabilidade social não apenas atrai clientes conscientes, mas também gera parcerias valiosas com universidades e iniciativas de código aberto. Um estudo da Deloitte indica que empresas com práticas sustentáveis tendem a ter melhor desempenho financeiro e a atrair mais talentos, o que coloca a GG Laboratories em uma posição vantajosa em um mercado competitivo.
+
+# Visão Geral da Indústria
+![image](https://github.com/user-attachments/assets/20d9c5c1-3b7f-430b-992b-c647944c67bd) <br>
+A indústria de tecnologia da informação tem se mostrado um dos setores mais dinâmicos e em crescimento no Brasil, refletindo a crescente demanda por soluções digitais e inovação. A integração de tecnologias emergentes, como inteligência artificial, big data e IoT, tem promovido um ambiente propício para o surgimento de empresas que, como a GG Laboratories, buscam não apenas atender as necessidades de seus clientes, mas também formentar práticas sustentáveis e colaborativas.
+
+## 📈 Tendências do Setor
+* **Crescimento da Inteligência Artificial:** A IA está se tornando uma parte essencial de diversas aplicações, desde automação de processos até análise avançada de dados;
+* **Soluções Sustentáveis:** Há uma crescente demanda por serviços que atendam a critérios de sustentabilidade, refletindo a preocupação global com o meio ambiente;
+* **Customização e Personalização:** Empresas estão buscando soluções que atendam suas necessidades específicas, exigindo uma abordagem mais personalizada no desenvolvimento de software;
+* **Agilidade nos Processos:** Metodologias ágeis estão se tornando padrão, permitindo entregas mais rápidas e adaptabilidade às mudanças nas exigências do mercado.
+
+## 🏭 Desafios na Indústria
+* **Acompanhamento Tecnológico:** Manter-se atualizado com as constantes inovações e tendências tecnológicas é um desafio para muitas empresas;
+* **Competição Intensa:** A presença de inúmeras startups e grandes empresas de tecnologia eleva o nível da concorrência;
+* **Necessidade de Qualificação:** Há uma demanda crescente por profissionais qualificados, o que pode representar um desafio em termos de recrutamento e retenção de talentos.
