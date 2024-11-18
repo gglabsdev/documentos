@@ -54,3 +54,6 @@ A indústria de tecnologia da informação está em constante transformação, c
 # Análise de Viabilidade
 ![image](https://github.com/user-attachments/assets/28e1aef4-8b10-4cb9-a722-0b22981d6709) <br>
 Este estudo considera fatores econômicos, financeiros, técnicos e de marketing, proporcionando uma visão abrangente das oportunidades e desafios que a empresa enfrenta.
+
+## 🌐 Análise de Mercado
+O mercado de software está em constante expansão, com uma crescente demanda por soluções personalizadas e integradas. Segundo a pesquisa realizada pela Statista, espera-se que o mercado global de software alcance aproximadamente 1 trilhão de dólares até 2025, o que representa uma oportunidade significativa para a GG Laboratories. Além disso, a ênfase em tecnologias emergentes e soluções sustentáveis está alinhada com as tendências atuais do setor, tornando a empresa competitiva e relevante.
