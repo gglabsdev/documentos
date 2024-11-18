@@ -38,5 +38,15 @@ A indústria de tecnologia da informação está em constante transformação, c
 * Riscos associados ao desenvolvimento de projetos de código aberto, como a gestão de propriedade intelectual.
 
 ## 🌱 Oportunidades
+* Crescente demanda por soluções de software sustentáveis e inovadoras no mercado;
+* Expansão da parceria com universidades para pesquisa conjunta e desenvolvimento de novas tecnologias;
+* Aumento do interesse em inteligência artificial, oferecendo novas possibilidades de mercado;
+* Oportunidades de colaborar em projetos internacionais, ampliando o alcance da empresa;
+* Crescimento do setor de tecnologia no Brasil, estimulando novas contratações e expansão de serviços.
 
 ## 🔥 Ameaças
+* Rápido avanço tecnológico que pode tornar soluções existentes obsoletas;
+* Crises econômicas que podem afetar o orçamento dos clientes para serviços de tecnologia;
+* Concorrência de empresas grandes e consolidadas com mais recursos;
+* Mudanças nas regulamentações relacionadas a privacidade e proteção de dados;
+* Risco de ciber-ataques e violações de segurança que podem comprometer a confiança do cliente.
