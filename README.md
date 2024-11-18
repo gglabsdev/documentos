@@ -25,3 +25,18 @@ A indústria de tecnologia da informação está em constante transformação, c
 # Análise SWOT
 ## 🏋️‍♀️ Pontos Fortes
 * Integração com tecnologias emergentes, como inteligência artificial, otimizando processos e soluções;
+* Cultura de inovação constante que promove a criatividade e a eficiência dentro da equipe;
+* Flexibilidade nas metodologias de trabalho, permitindo adaptações rápidas às demandas dos clientes;
+* Suporte técnico 24/7, garantindo a satisfação e a continuidade dos serviços prestados;
+* Parcerias com universidades e projetos de código aberto que fortalecem a responsabilidade social e a inovação.
+
+## 🚼 Fraquezas
+* Dependência de tecnologia em constante evolução, o que pode exigir investimentos frequentes em atualizações;
+* Necessidade de manutenção constante e da capacitação da equipe para acompanhar as tendências e técnicas emergentes;
+* Concorrência intensa no mercado de tecnologia, dificultando a diferenciação de serviços;
+* Dificuldades em escalar as operações em um mercado em rápida mudança;
+* Riscos associados ao desenvolvimento de projetos de código aberto, como a gestão de propriedade intelectual.
+
+## 🌱 Oportunidades
+
+## 🔥 Ameaças
